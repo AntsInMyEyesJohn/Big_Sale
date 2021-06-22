@@ -1,0 +1,6 @@
+int x = 8;
+iny y = 9;
+
+answer = x * y; 
+
+Console.WriteLine(answer);
