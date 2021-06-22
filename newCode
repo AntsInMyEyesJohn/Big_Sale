@@ -1,0 +1,6 @@
+int x = 6;
+iny y = 5;
+
+answer = x + y; 
+
+Console.WriteLine(answer);
