@@ -1,6 +1,6 @@
-int x = 8;
-iny y = 9;
+int x = 6;
+iny y = 5;
 
-answer = x * y; 
+answer = x + y; 
 
 Console.WriteLine(answer);
